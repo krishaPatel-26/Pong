@@ -17,7 +17,7 @@ A modern implementation of the classic Pong arcade game featuring enhanced physi
 ### **Game Variations**
 - **Classic Mode**: First to 10 points wins
 - **Lives Mode**: Last player with remaining lives wins
-- **Hybrid Mode**: Win by either reaching 10 points OR eliminating opponent's lives
+- **Hybrid Mode**: Win by either reaching 10 points OR eliminating the opponent's lives
 
 ## 🎮 Game Rules
 
@@ -42,10 +42,6 @@ A modern implementation of the classic Pong arcade game featuring enhanced physi
 | **Player B (Right)** | `↑` Arrow | `↓` Arrow |
 
 ## 🚀 Quick Start
-
-### **Prerequisites**
-- Python 3.6 or higher
-- Turtle module (included with Python)
 
 ### **Run the Game**
 ```bash
